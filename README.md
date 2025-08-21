@@ -21,9 +21,15 @@ Hi 👋, I'm **Welman Apridius**
 ---
 
 ## 🛠 Tech & Tools  
-- Python | Pandas | Scikit-learn  
-- Flask | MySQL | HTML | CSS | Bootstrap  
-- GitHub | Jupyter Notebook  
+**Programming & Libraries**
+- Python
+- NumPy | Pandas | Scikit-learn | Joblib
+- Matplotlib | Seaborn | Plotly (visualization)
+- yFinance (stock data) | Requests | PyTZ
+- OpenPyXL (Excel handling)
+
+**Web Framework**
+- Flask
 
 ---
 
