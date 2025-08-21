@@ -10,7 +10,7 @@ Hi 👋, I'm **Welman Apridius**
 
 ### 📈 Stock Price Prediction System  
 - **Description**: Web-based application to predict stock prices using Random Forest algorithm and EMA-10 Daily Timeframe Indicator.  
-- **Tech Stack**: Python, Flask, HTML, CSS  
+- **Tech Stack**: Python, Flask, HTML, CSS, API YahooFinance  
 - **Features**:  
   - Dashboard with stock list  
   - Prediction result page  
