@@ -47,6 +47,8 @@ Hi 👋, I'm **Welman Apridius**
 **Web Framework**
 - Flask
 
+**Business Intelligence Tools**  
+- Tableau Public
 ---
 
 ## 📫 Personal Contact  
