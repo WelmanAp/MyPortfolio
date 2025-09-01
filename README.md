@@ -22,6 +22,20 @@ Hi 👋, I'm **Welman Apridius**
 
 ---
 
+### 📊 Printing Sales Dashboard (Tableau)  
+- **Description**: A sales data visualization interactive dashboard for a printing company created using **Tableau Public**.  
+- **Features**:  
+  - Top 15 products by sales volume  
+  - Monthly sales trend  
+  - Total revenue summary  
+- **Tools**: Tableau Public, CSV Dataset  
+
+📂 **Source Code**: [Printing Sales Dashboard](./printing-sales-dashboard)  
+
+![Dashboard](./printing-sales-dashboard/dashboard/printing_dashboard.png)  
+
+---
+
 ## 🛠 Tech & Tools  
 **Programming & Libraries**
 - Python
