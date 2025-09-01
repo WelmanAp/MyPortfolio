@@ -16,7 +16,7 @@ Hi 👋, I'm **Welman Apridius**
   - Prediction result page  
   - History tracking (10 latest predictions for each stock)  
 
-📂 **Source Code**: [Stock Price Prediction](https://github.com/WelmanAp/stock-price-prediction)
+📂 **Source Code**: [Stock Price Prediction](https://github.com/WelmanApridius/stock-price-prediction)
 
 <img width="806" height="728" alt="dashboard" src="https://github.com/user-attachments/assets/837dca13-9c6d-4b12-b509-67d1ed3da8e5" style="width:30%;" /> <img width="682" height="730" alt="result" src="https://github.com/user-attachments/assets/ee107ec7-abda-4b1d-89d4-628d574766e4" style="width:25%;" /> <img width="682" height="729" alt="history" src="https://github.com/user-attachments/assets/1e658238-74eb-4b92-9d1e-9d9ffc4cceec" style="width:25%;" />
 
@@ -30,7 +30,7 @@ Hi 👋, I'm **Welman Apridius**
   - Total revenue summary  
 - **Tools**: Tableau Public, CSV Dataset  
 
-📂 **Source Code**: [Printing Sales Dashboard]([./printing-sales-dashboard](https://github.com/WelmanApridius/Printing-Sales-Dashboard-withTableau))  
+📂 **Source Code**: [Printing Sales Dashboard](https://github.com/WelmanApridius/Printing-Sales-Dashboard-withTableau)  
 
 ![Dashboard](./printing-sales-dashboard/dashboard/printing_dashboard.png)  
 
