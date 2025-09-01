@@ -23,11 +23,22 @@ Hi 👋, I'm **Welman Apridius**
 ---
 
 ### 📊 Printing Sales Dashboard (Tableau)  
-- **Description**: A sales data visualization interactive dashboard for a printing company created using **Tableau Public**.  
-- **Features**:  
-  - Top 15 products by sales volume  
-  - Monthly sales trend  
-  - Total revenue summary  
+- **Description**: An interactive dashboard created using Tableau Public to analyze a printing company’s sales performance. 
+- **Features**:
+1. Top 15 products by sales volume  
+   - Columns: MONTH(Date)  
+   - Rows: SUM(Order Quantity)  
+   - Visualizations: Bar Chart & Line Chart  
+
+2. Monthly sales trend  
+   - Columns: SUM(Order Quantity)  
+   - Rows: Product Type  
+
+3. Total revenue summary  
+   - Columns: MONTH(Date)  
+   - Rows: SUM(Total Revenue)  
+   - Purpose: Summarizes monthly revenue (Aug 2022 – Nov 2023).
+
 - **Tools**: Tableau Public, CSV Dataset  
 
 📂 **Source Code**: [Printing Sales Dashboard](https://github.com/WelmanApridius/Printing-Sales-Dashboard-withTableau)  
