@@ -30,7 +30,7 @@ Hi 👋, I'm **Welman Apridius**
   - Total revenue summary  
 - **Tools**: Tableau Public, CSV Dataset  
 
-📂 **Source Code**: [Printing Sales Dashboard](./printing-sales-dashboard)  
+📂 **Source Code**: [Printing Sales Dashboard]([./printing-sales-dashboard](https://github.com/WelmanApridius/Printing-Sales-Dashboard-withTableau))  
 
 ![Dashboard](./printing-sales-dashboard/dashboard/printing_dashboard.png)  
 
