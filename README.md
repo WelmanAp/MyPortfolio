@@ -61,8 +61,22 @@ Interactive dashboard analyzing a printing company’s sales performance.
 **Tools:** Tableau Public, CSV Dataset  
 
 <p align="center">
-  <img src="./printing-sales-dashboard/dashboard/printing_dashboard.png" alt="Printing Sales Dashboard" width="70%" />
-</p>  
+  <img src="https://github.com/user-attachments/assets/ddc6010e-d191-4f2e-9dae-1f1c02f4f472" alt="InteractiveDashboard_TrendSell" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d26bde20-d0aa-44e2-be16-e4447873bc09" alt="InteractiveDashboard_Top15" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d70cc56f-429b-4f37-85d5-4bcf2906328e" alt="TotalRevenue" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b8bd5e36-7a6e-4880-8f58-bfe118887752" alt="Top15ofProduct" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9053f869-c150-4c87-b2ca-c283cb79acca" alt="TrendSellProduct" width="45%" />
+  <img src="https://github.com/user-attachments/assets/84cb9b67-acb4-46bc-803b-e50b2c494b3a" alt="InteractiveDashboard_Revenue" width="45%" />
+</p>
+
+
+
 
 ---
 
