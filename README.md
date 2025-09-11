@@ -51,7 +51,7 @@ Web-based application to predict stock prices using **Random Forest** and **EMA-
 ---
 
 ### 📊 [Printing Sales Dashboard (Tableau)](https://github.com/WelmanApridius/Printing-Sales-Dashboard-withTableau)  
-Interactive dashboard analyzing a printing company’s sales performance.  
+Developed an interactive dashboard to visualize key insights and analyze sales performance for a printing company.
 
 **Features:**  
 - 🏆 Top 15 products by sales volume (Bar & Line Chart)  
