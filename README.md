@@ -6,30 +6,6 @@ Hi 👋, I'm **Welman Apridius**
 
 ---
 
-## 🛠 Tech & Tools  
-
-### 💻 Programming & Libraries  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
-
-### 🌐 Web Framework  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-
-### 📊 Business Intelligence Tools  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-
-### 🛠 Others  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?logo=microsoft-excel&logoColor=white)  
-![yFinance](https://img.shields.io/badge/yFinance-FFD43B?logo=python&logoColor=black)  
-
----
-
 ## 🚀 Projects  
 
 ### 📈 [Stock Price Prediction System](https://github.com/WelmanApridius/stock-price-prediction)  
@@ -75,8 +51,13 @@ Developed an interactive dashboard to visualize key insights and analyze sales p
   <img src="https://github.com/user-attachments/assets/84cb9b67-acb4-46bc-803b-e50b2c494b3a" alt="InteractiveDashboard_Revenue" width="45%" />
 </p>
 
+---
 
+## 🛠 Tech & Tools  
 
+| 💻 Programming & Libraries | 🌐 Web Framework | 📊 BI tools & Others |
+|-----------------------------|------------------|----------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?logo=microsoft-excel&logoColor=white) ![yFinance](https://img.shields.io/badge/yFinance-FFD43B?logo=python&logoColor=black) |
 
 ---
 
